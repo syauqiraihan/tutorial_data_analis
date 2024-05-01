@@ -1,7 +1,7 @@
 # tutorial_data_analis
 untuk mendownload data bisa akses [link berikut](https://google.com)!
 ## Analisis Tingkat Kebahagiaan Negara Indonesia dibanding Negara di Asia Tenggara
-<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/Gambar%201.png>
+<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/Gambar%201.png">
 
 ### insight
 - Indonesia di peringkat 87 dunia dilihat dari sisi indeks happiness score, sedikit dibawah garis tengah  (Global Median :5,57)
