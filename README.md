@@ -22,3 +22,9 @@ untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/
 ### insight
 - GDP per capita adalah faktor penjelas terbesar yang mempengaruhi tingkat kebahagiaan seseorang secara general di seluruh dunia
 - Sedangkan generosity dan perceptions of corruption berada di posisi terendah yang mempengaruhi tingkat kebahagiaan seseorang di seluruh dunia
+
+## Analisis Tingkat Kebahagiaan Negara di Dunia Berdasarkan Beberapa Faktor
+<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/gambar%205.png">
+
+## Analisis Tingkat Kebahagiaan Negara di Dunia Berdasarkan Beberapa Faktor
+<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/gambar%204.png">
