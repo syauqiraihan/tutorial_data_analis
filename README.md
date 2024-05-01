@@ -1,5 +1,5 @@
 # tutorial_data_analis
-untuk mendownload data bisa akses [link berikut](https://google.com)!
+untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1KTniZixWMkbD5fRbVmG-YnzyCtA1flaJ)!
 ## Analisis Tingkat Kebahagiaan Negara Indonesia dibanding Negara di Asia Tenggara
 <img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/Gambar%201.png">
 
