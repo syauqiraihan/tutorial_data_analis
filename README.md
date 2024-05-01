@@ -10,14 +10,14 @@ untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/
 - Singapura di posisi 27 dunia selisih 60 peringkat dari Indonesia, jauh dibandingkan negara-negara asia tenggara lainnya.
 
 ## Analisis Tingkat Kebahagiaan Negara di Dunia Berdasarkan Beberapa Faktor
-<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/gambar%203.png">
+<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/gambar%202.png">
 
 ### insight
 - GDP per capita adalah faktor penjelas terbesar yang mempengaruhi tingkat kebahagiaan seseorang secara general di seluruh dunia
 - Sedangkan generosity dan perceptions of corruption berada di posisi terendah yang mempengaruhi tingkat kebahagiaan seseorang di seluruh dunia
 
 ## Analisis Tingkat Kebahagiaan Negara di Dunia Berdasarkan Beberapa Faktor
-<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/gambar%202.png">
+<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/gambar%203.png">
 
 ### insight
 - GDP per capita adalah faktor penjelas terbesar yang mempengaruhi tingkat kebahagiaan seseorang secara general di seluruh dunia
