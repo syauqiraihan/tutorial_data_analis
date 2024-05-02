@@ -1,4 +1,4 @@
-# tutorial_data_analis
+# Analisis Tingkat Kebahagian Negara-Negara Di Dunia
 untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1KTniZixWMkbD5fRbVmG-YnzyCtA1flaJ)!
 
 ## Analisis Tingkat Kebahagiaan Negara Indonesia dibanding Negara di Asia Tenggara
