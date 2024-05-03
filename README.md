@@ -29,7 +29,7 @@ untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/
 - Sedangkan uzbekistan berada jauh diatas Indonesia di posisi 53
 
 ## Analisis Faktor Tingkat Kebahagiaan Negara di Indonesia Dibandingkan Uzbekistan
-<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/Rank%20Indo%20Vs%20Uzbek.png">
+<img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/Faktor%20Indo%20Uzbek.png">
 
 ### insight
 - Faktor terbesar mengapa uzbekistan jauh diatas Indonesia skor tingkat kebahagiaannya adalah dipengaruhi dari faktor "Dystopia"
