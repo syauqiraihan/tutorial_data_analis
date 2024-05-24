@@ -1,6 +1,7 @@
 # Analisis Tingkat Kebahagian Negara-Negara Di Dunia dengan beberapa aspek pertimbangan
 
-untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1KTniZixWMkbD5fRbVmG-YnzyCtA1flaJ)!
+untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1IRG069z2OwI5KDBwN0M1G3AUNNsQ2iU4)!
+
 
 
 
