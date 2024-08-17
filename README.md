@@ -28,7 +28,7 @@ ppppp
 ## Analisis Tingkat Kebahagiaan Negara di Indonesia Dibandingkan Uzbekistan
 <img src="https://github.com/syauqiraihan/tutorial_data_analis/blob/main/Rank%20Indo%20Vs%20Uzbek.png">
 
-### insight
+### insight 1
 - Global Median ada di angka 5,57
 - Indonesia berada di posisi 87 di dunia untuk skor tingkat kebahagaiaannya
 - Sedangkan uzbekistan berada jauh diatas Indonesia di posisi 53
