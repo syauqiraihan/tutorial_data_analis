@@ -1,7 +1,12 @@
 # Analisis Tingkat Kebahagian Negara-Negara Di Dunia dengan beberapa aspek pertimbangan
 
+<<<<<<< HEAD
 untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1KTniZixWMkbD5fRbVmG-YnzyCtA1flaJ)!
 ppp
+=======
+untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1IRG069z2OwI5KDBwN0M1G3AUNNsQ2iU4)!
+
+>>>>>>> cfeb31183082bfc5ef7432aafab59cceef8e9ab0
 
 ppppp
 ## Analisis Tingkat Kebahagiaan Negara di Dunia Berdasarkan Beberapa Faktor
@@ -61,4 +66,31 @@ ppppp
 - Disusul oleh Indonesia dengan skor tingkat kebahagiaan 5,24
 - Di posisi ketiga ada Iraq dengan skor tingkat kebahagiaan 4,94
 
+'''python
+!pip install xgboost
+
+import warnings
+warnings.filterwarnings('ignore')
+
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+
+from sklearn.linear_model import LinearRegression
+from sklearn. linear_model import Lasso
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.neighbors import KNeighborsRegressor
+from xgboost import XGBRegressor
+
+from sklearn.model_selection import cross_val_score
+from sklearn.metrics import mean_squared_error
+from sklearn import metrics
+'''
 
